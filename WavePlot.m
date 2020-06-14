@@ -5,3 +5,5 @@ y = sin(x);
 figure
 plot(x, y)
 grid on
+xlabel('Time')
+ylabel('Amplitude')
