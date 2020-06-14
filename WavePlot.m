@@ -5,5 +5,5 @@ y = sin(2*x);
 figure
 plot(x, y)
 grid on
-xlabel('Time')
-ylabel('Amplitude')
+xlabel('Time(sec)')
+ylabel('Amplitude (Volts)')
