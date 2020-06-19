@@ -7,3 +7,4 @@ plot(x, y)
 grid on
 xlabel('Time(sec)')
 ylabel('Amplitude (Volts)')
+title('results') 
