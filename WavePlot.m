@@ -1,6 +1,6 @@
 clc; clear; close all;
 x = 1:0.1:10;
-y = 4*sin(2*x);
+y = 10*sin(2*x)+9*x;
 z = cos(y);
 
 figure
